@@ -1,0 +1,1862 @@
+[
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-178/22/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-178/23/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-58/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-36/5/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-31/4/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-57/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-33/5/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-32/4/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-activity-api/job/PR-39/5/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "crossBrowserTest",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/probate-frontend/job/crossBrowswerNightlyPipeline/34/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "Pipeline Succeeded",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/probate-frontend/job/crossBrowswerNightlyPipeline/34/"
+    },
+    {
+        "product": "SSCS",
+        "current_step_name": "crossBrowserTest",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/track-your-appeal-frontend/job/master/30/"
+    },
+    {
+        "product": "SSCS",
+        "current_step_name": "Pipeline Succeeded",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/track-your-appeal-frontend/job/master/30/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "DependencyCheckNightly",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/ccd-user-profile-api/job/master/26/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "Pipeline Succeeded",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/ccd-user-profile-api/job/master/26/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-467/4/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/demo/16/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/53/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-legal-rep-frontend/job/master/34/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/54/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "functionalTest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-153/1/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "deploy:demo",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/demo/59/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-maintenance-service/job/PR-10/51/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/55/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "deploy:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/master/131/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/56/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/57/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "deploy:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-legal-rep-frontend/job/master/35/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/58/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-maintenance-service/job/PR-10/52/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-464/5/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-437/11/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-447/19/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-468/4/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-460/24/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "promote:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-279/1/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "functionalTest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-153/2/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-449/42/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/div-petitioner-frontend/job/master/25/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "deploy:prod",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/draft-store/job/master/16/"
+    },
+    {
+        "product": "sscs",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-case-loader/job/master/24/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-279/2/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/PR-206/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-167/10/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-56/39/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/59/"
+    },
+    {
+        "product": "sscs",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-case-loader/job/master/25/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-business-service/job/PR-38/4/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-163/4/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/master/34/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/PR-206/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-api-gateway/job/PR-72/7/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-petitioner-frontend/job/PR-266/31/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-56/40/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/27/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "smoketest:aks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-frontend/job/master/9/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-260/1/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-rules/job/PR-62/1/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/60/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-events/job/PR-117/1/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/service-auth-provider-app/job/demo/6/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-prod",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/master/35/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-api/job/PR-74/1/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-events/job/demo/5/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-279/3/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-179/1/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/master/36/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/28/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-85/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/demo/15/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-167/11/"
+    },
+    {
+        "product": "jui",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/jui-webapp/job/PR-176/3/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-583/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-578/1/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-frontend/job/PR-92/1/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-frontend/job/PR-97/1/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-frontend/job/PR-87/1/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-frontend/job/PR-85/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/submit-your-appeal/job/PR-580/13/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-frontend/job/PR-83/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/demo/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-499/1/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "crossBrowserTest",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/div-petitioner-frontend/job/master/26/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "Pipeline Succeeded",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/div-petitioner-frontend/job/master/26/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-92/1/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/24/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-notifications/job/demo/1/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/track-your-appeal-notifications/job/PR-159/16/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-122/11/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/29/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-261/19/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/30/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-progression-service/job/PR-133/36/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-admin-web/job/PR-60/16/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-petitioner-frontend/job/PR-305/6/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-460/25/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-180/1/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/25/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/18/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-258/65/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/PR-267/14/"
+    },
+    {
+        "product": "fees-register",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccfr-fees-register-app/job/PR-158/2/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-86/43/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-notifications/job/PR-159/1/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-86/44/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-orchestration-service/job/PR-17/4/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/19/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-163/5/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/26/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-56/41/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-notifications/job/PR-159/2/"
+    },
+    {
+        "product": "custard",
+        "current_step_name": "aksdeploy",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS_pipeline_test/job/cnp-rhubarb-frontend/job/master/38/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-580/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-581/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-582/1/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-86/45/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-notifications/job/PR-160/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-122/12/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-460/26/"
+    },
+    {
+        "product": "sscs",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/tribunals-case-api/job/PR-217/10/"
+    },
+    {
+        "product": "custard",
+        "current_step_name": "sonarscan",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS_pipeline_test/job/cnp-rhubarb-frontend/job/master/43/"
+    },
+    {
+        "product": "custard",
+        "current_step_name": "dockerbuild",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS_pipeline_test/job/cnp-rhubarb-frontend/job/master/44/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/PR-205/4/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-decree-nisi-frontend/job/PR-24/9/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-decree-nisi-frontend/job/PR-41/6/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/PR-901/5/"
+    },
+    {
+        "product": "jui",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/jui-webapp/job/PR-176/5/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-163/6/"
+    },
+    {
+        "product": "sscs",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/tribunals-case-api/job/PR-217/11/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/20/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-258/66/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/demo/5/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/PR-267/15/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/27/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-173/24/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-orchestration-service/job/PR-13/13/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/PR-267/19/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-progression-service/job/PR-133/35/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-notifications/job/PR-159/3/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/PR-267/20/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/21/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-71/11/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-180/3/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/32/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-258/67/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-admin-web/job/PR-60/17/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-case-orchestration-service/job/PR-13/14/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/PR-267/18/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-122/13/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/demo/17/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-17/5/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/33/"
+    },
+    {
+        "product": "jui",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/jui-webapp/job/PR-176/6/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-decree-nisi-frontend/job/PR-39/20/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/34/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-468/6/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-261/20/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/1/"
+    },
+    {
+        "product": "ref",
+        "current_step_name": "buildinfra:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ref-professional-user-profile/job/master/18/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-86/46/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-163/8/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/29/"
+    },
+    {
+        "product": "jui",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/jui-webapp/job/PR-176/7/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "deploy:demo",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/demo/60/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/35/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-468/7/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-86/47/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/2/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "smoketest:demo",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/demo/61/"
+    },
+    {
+        "product": "fees-register",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccfr-fees-register-app/job/PR-158/3/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/29/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-261/22/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-petitioner-frontend/job/PR-310/1/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "smoketest:demo",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/demo/62/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-92/2/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-petitioner-frontend/job/PR-305/7/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/36/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS_Nightly/job/idam-api/job/master/13/"
+    },
+    {
+        "product": "fees-register",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccfr-fees-register-app/job/PR-158/4/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-86/48/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-elastic-search/job/master/4/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/30/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-frontend/job/PR-56/11/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-frontend/job/PR-56/14/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/37/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/61/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-frontend/job/PR-56/13/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/31/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/3/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-66/38/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-449/43/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/4/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-158/12/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-220/11/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-petitioner-frontend/job/PR-310/2/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/30/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/32/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-118/21/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-frontend/job/PR-56/15/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "aksdeploy",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-449/44/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/6/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/31/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/demo/63/"
+    },
+    {
+        "product": "rhubarb-cnp-850",
+        "current_step_name": "deploy:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/CNP-850/7/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/7/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "smokeTest:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/master/19/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/33/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/8/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-petitioner-frontend/job/PR-310/3/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "smoketest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/PR-91/6/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-181/1/"
+    },
+    {
+        "product": "fees-register",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccfr-fees-register-app/job/PR-158/5/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-118/22/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "deploy:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/CNP-850/8/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-154/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "smoketest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/master/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "functionalTest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/master/1/"
+    },
+    {
+        "product": "jui",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/jui-webapp/job/PR-176/8/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/3/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/PR-468/9/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-581/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "smoketest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/master/2/"
+    },
+    {
+        "product": "dm",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/document-management-store-app/job/PR-130/1/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "checkout",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/bulk-scan-orchestrator/job/master/5/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "checkout",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/master/6/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "build",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/bulk-scan-orchestrator/job/master/6/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/35/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "functionalTest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/master/2/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/36/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-154/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/41/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/master/78/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "smoketest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/master/3/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "deploy:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/master/5/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-citizen-frontend/job/demo/64/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/4/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "smoketest:sprod",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/master/7/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/CNP-850/9/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-581/3/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/42/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-181/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/43/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/37/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/63/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/demo/19/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-118/23/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-154/3/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/44/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/master/79/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-154/4/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "promote:sprod",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/master/8/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-api-gateway/job/PR-105/1/"
+    },
+    {
+        "product": "sscs-tya",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-track-your-appeal-notifications/job/PR-160/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-admin-web/job/PR-62/6/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/feature%252Falert/9/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/5/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/45/"
+    },
+    {
+        "product": "webappblob",
+        "current_step_name": "build",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/master/8/"
+    },
+    {
+        "product": "snl",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/snl-frontend/job/PR-154/5/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-backend/job/PR-31/1/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "functionalTest:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/master/80/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-user-profile-api/job/PR-73/2/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-581/4/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-177/3/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "securitychecks",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-orchestrator/job/PR-18/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-175/17/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/demo/32/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/34/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/46/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/6/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "deploy:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/CNP-850/10/"
+    },
+    {
+        "product": "payment",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccpay-payment-app/job/PR-276/38/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/cnp-788/4/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/service-auth-provider-app/job/PR-89/2/"
+    },
+    {
+        "product": "sscs",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/submit-your-appeal/job/PR-585/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/47/"
+    },
+    {
+        "product": "coh",
+        "current_step_name": "functionalTest:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/coh-continuous-online-resolution/job/master/81/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-admin-web/job/PR-60/20/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "buildinfra:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/PR-86/31/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "buildinfra:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/submit-your-appeal/job/PR-585/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/48/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-585/2/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "buildinfra:demo",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/demo/33/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "build",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/service-auth-provider-app/job/feature%252Fremove-hashicorp-vault/1/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/cnp-788/5/"
+    },
+    {
+        "product": "dm",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/document-management-store-app/job/PR-131/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/49/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "buildinfra:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/service-auth-provider-app/job/feature%252Fremove-hashicorp-vault/2/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/master/53/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-definition-store-api/job/PR-128/2/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-orchestrator/job/PR-18/2/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/22/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-218/11/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/service-auth-provider-app/job/PR-89/3/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-submit-service/job/PR-65/6/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "smokeTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-backend/job/PR-31/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-218/12/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/24/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-orchestrator/job/PR-18/3/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-backend/job/PR-31/3/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "build",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/master/1/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-261/1/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "buildinfra:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/PR-86/32/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/demo/34/"
+    },
+    {
+        "product": "rhubarb-cnp788",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/cnp-788/7/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-261/2/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "buildinfra:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-api/job/PR-99/1/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/25/"
+    },
+    {
+        "product": "rhubarb-cnp788",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/cnp-788/8/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/demo/36/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "functionalTest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/master/2/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/demo/20/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-backend/job/PR-31/4/"
+    },
+    {
+        "product": "jui",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/jui-webapp/job/master/80/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-backend/job/PR-31/5/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/7/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/65/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/35/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "functionalTest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/master/3/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "build",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/draft-store/job/master/3/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "build",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/draft-store/job/feature%252Fpopulate-secrets-from-db-module/1/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/8/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/50/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-163/13/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/master/51/"
+    },
+    {
+        "product": "cmc",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cmc-claim-store/job/master/66/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/36/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "smoketest:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/draft-store/job/feature%252Fpopulate-secrets-from-db-module/2/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-175/18/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/26/"
+    },
+    {
+        "product": "sscs",
+        "current_step_name": "smoketest:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/submit-your-appeal/job/PR-585/3/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "sonarscan",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/PR-274/5/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "buildinfra:demo",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-frontend/job/demo/40/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-218/13/"
+    },
+    {
+        "product": "rpe",
+        "current_step_name": "deploy:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/send-letter-service/job/master/4/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-165/1/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-163/14/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/37/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/9/"
+    },
+    {
+        "product": "bar",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bar-web/job/PR-258/68/"
+    },
+    {
+        "product": "rhubarb-cnp788",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/cnp-788/11/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-respondent-frontend/job/PR-15/38/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/10/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/CNP-850/11/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "build",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-case-management-web/job/PR-262/1/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/27/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/28/"
+    },
+    {
+        "product": "rhubarbcnp788",
+        "current_step_name": "buildinfra:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/cnp-788/13/"
+    },
+    {
+        "product": "bulk-scan",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/bulk-scan-processor/job/PR-165/2/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smokeTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/11/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "deploy:sandbox",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/CNP-850/12/"
+    },
+    {
+        "product": "ccd",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/ccd-data-store-api/job/PR-167/12/"
+    },
+    {
+        "product": "sscs-cor",
+        "current_step_name": "test",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-cor-frontend/job/PR-56/16/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-public/job/PR-83/29/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/draft-store/job/PR-194/1/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "checkout",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/draft-store/job/feature%252Fmove-secret-to-azure-vault/1/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "buildinfra:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/draft-store/job/feature%252Fmove-secret-to-azure-vault/2/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "smoketest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/13/"
+    },
+    {
+        "product": "draft-store",
+        "current_step_name": "buildinfra:saat",
+        "build_url": "https://sandbox-build.platform.hmcts.net/job/HMCTS/job/draft-store/job/feature%252Fmove-secret-to-azure-vault/3/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-business-service/job/PR-38/6/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "buildinfra:aat",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-business-service/job/master/3/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/14/"
+    },
+    {
+        "product": "probate",
+        "current_step_name": "buildinfra:prod",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/probate-business-service/job/master/4/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-document-generator-client/job/PR-65/5/"
+    },
+    {
+        "product": "idam",
+        "current_step_name": "functionalTest:idam-preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/idam-web-admin/job/PR-92/4/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-document-generator-client/job/PR-65/6/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/16/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "buildinfra:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/17/"
+    },
+    {
+        "product": "rhubarb",
+        "current_step_name": "aksdeploy",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/cnp-rhubarb-recipes-service/job/PR-96/1/"
+    },
+    {
+        "product": "div",
+        "current_step_name": "functionalTest:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/div-document-generator-client/job/PR-65/8/"
+    },
+    {
+        "product": "sscs-tribunals",
+        "current_step_name": "deploy:preview",
+        "build_url": "https://build.platform.hmcts.net/job/HMCTS/job/sscs-submit-your-appeal/job/PR-584/18/"
+    }
+]
