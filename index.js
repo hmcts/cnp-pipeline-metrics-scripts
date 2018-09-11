@@ -15,14 +15,10 @@ const config = {
   }
 }
 
-const databaseId = config.names.database;
-const containerId = config.names.container;
-
-const endpoint = config.connection.endpoint;
-const masterKey = config.connection.authKey;
-
 const queryLimit = 10000
-const queryTimeAfter = '2018-09-10T00:00:00Z'
+const queryTimeAfter = new Date(new Date().setHours(0, 0, 0, 0))
+  .toISOString().split('.')[0] + "Z" // e.g. '2018-09-11T00:00:00Z'
+
 
 const query = `
 SELECT TOP ${queryLimit} c.product, c.current_step_name
@@ -32,7 +28,10 @@ WHERE c.current_build_scheduled_time > '${queryTimeAfter}'
   AND c.current_step_name != 'Pipeline Failed'
 `
 
-const client = new CosmosClient({ endpoint, auth: { masterKey } });
+const client = new CosmosClient({
+  endpoint: config.connection.endpoint,
+  auth: { masterKey: config.connection.authKey }
+});
 
 async function run() {
   const queryResult = await queryForItems();
@@ -75,8 +74,8 @@ async function run() {
 }
 
 async function queryForItems() {
-  const database = await init(databaseId);
-  const container = database.container(containerId);
+  const database = await init(config.names.database);
+  const container = database.container(config.names.container);
   const items = await container.items.query(query);
   return (await items.toArray()).result;
 }
