@@ -15,10 +15,10 @@ const config = {
   }
 }
 
-const queryLimit = 10000
-const queryTimeAfter = new Date(new Date().setHours(0, 0, 0, 0))
-  .toISOString().split('.')[0] + "Z" // e.g. '2018-09-11T00:00:00Z'
-
+const queryLimit = 100000
+//const queryTimeAfter = new Date(new Date().setHours(0, 0, 0, 0))
+// .toISOString().split('.')[0] + "Z" // e.g. '2018-09-11T00:00:00Z'
+const queryTimeAfter = '2018-09-01T00:00:00Z'
 
 const query = `
 SELECT TOP ${queryLimit} c.product, c.current_step_name
@@ -26,6 +26,8 @@ FROM c
 WHERE c.current_build_scheduled_time > '${queryTimeAfter}' 
   AND c.current_build_current_result = 'FAILURE' 
   AND c.current_step_name != 'Pipeline Failed'
+  AND STARTSWITH(c.build_url ,'https://build') 
+  AND c.current_step_name != 'Pipeline Succeeded'
 `
 
 const client = new CosmosClient({
