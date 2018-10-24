@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node bfa_categories"
+  },
+  "dependencies": {
+    "mongodb": "2.x",
+    "underscore": "^1.9.1"
+  }
+}
