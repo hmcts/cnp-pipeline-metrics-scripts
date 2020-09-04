@@ -3,7 +3,7 @@
     "start": "node bfa_categories"
   },
   "dependencies": {
-    "mongodb": "2.x",
+    "mongodb": "3.x",
     "underscore": "^1.9.1"
   }
 }
