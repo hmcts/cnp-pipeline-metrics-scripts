@@ -4,6 +4,6 @@
   },
   "dependencies": {
     "mongodb": "2.x",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.0"
   }
 }
